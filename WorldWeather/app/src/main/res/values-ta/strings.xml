@@ -29,9 +29,9 @@
     <string name="weather_info_humidity">ஈரப்பதம்</string>
     <string name="loading_message">ஏற்றுகிறது…</string>
     <string name="weather_info_wind_speed">காற்றின் விரைவு</string>
-    <string name="weather_info_wind_speed_unit_meters_per_second">எம்.பி.எச்</string>
-    <string name="weather_info_wind_speed_unit_kilometers_per_hour">kph</string>
-    <string name="weather_info_wind_speed_unit_miles_per_hour">எம்.பி.எச்</string>
+    <string name="weather_info_wind_speed_unit_meters_per_second">மைஒநொ</string>
+    <string name="weather_info_wind_speed_unit_kilometers_per_hour">கிமிஒம</string>
+    <string name="weather_info_wind_speed_unit_miles_per_hour">மைஒம</string>
     <string name="weather_info_wind_speed_beaufort_scale_force">ஆற்றல்</string>
     <string name="weather_info_wind_speed_beaufort_scale_1">ஒளி காற்று</string>
     <string name="weather_info_wind_direction">காற்று திசை</string>
@@ -86,7 +86,7 @@
     <string name="direction_wsw">மேற்கு-தென்மேற்கு</string>
     <string name="direction_w">மேற்கு</string>
     <string name="direction_nnw">வடக்கு-வடமேற்கு</string>
-    <string name="miles_per_second">எம்.பி.எச்</string>
+    <string name="miles_per_second">மைஒநொ</string>
     <string name="night">இரவு:</string>
     <string name="morning">காலை:</string>
     <string name="evening">மாலை:</string>
@@ -124,7 +124,7 @@
     <string name="language_berber">பெர்பர்</string>
     <string name="language_moroccan_standard">தமாசைட் (நிலையான மொராக்கோ)</string>
     <string name="language_romanian">ருமேனிய</string>
-    <string name="old_data_message_x_days_and_y_hours_ago">ஒரு பழைய முன்னறிவிப்பைக் காண விரும்புகிறீர்களா, மீட்டெடுக்கப்பட்ட %1$d %2$s மற்றும் %3$d %4 $ s க்கு முன்பு?</string>
+    <string name="old_data_message_x_days_and_y_hours_ago">ஒரு பழைய முன்னறிவிப்பைக் காண விரும்புகிறீர்களா, மீட்டெடுக்கப்பட்ட %1$d %2$s மற்றும் %3$d %4$s க்கு முன்பு?</string>
     <string name="old_data_message_x_days_or_hours_ago">ஒரு பழைய முன்னறிவிப்பைக் காண விரும்புகிறீர்களா, மீட்டெடுக்கப்பட்ட %1$d %2$s முன்பு?</string>
     <string name="days_one">நாள்</string>
     <string name="days_two">நாட்கள்</string>

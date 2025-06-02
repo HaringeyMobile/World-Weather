@@ -7,13 +7,13 @@
     <string name="wc_211">trovoada</string>
     <string name="wc_212">trovoada forte</string>
     <string name="wc_221">trovoada severa</string>
-    <string name="wc_230">trovoada com chuviscos frascos</string>
+    <string name="wc_230">trovoada com chuviscos fracos</string>
     <string name="wc_231">trovoada com chuviscos</string>
     <string name="wc_232">trovoada com chuviscos fortes</string>
     <string name="wc_300">chuviscos fracos</string>
     <string name="wc_301">chuviscos</string>
-    <string name="wc_302">chuviscos fortes</string>
-    <string name="wc_310">chuviscos fracos</string>
+    <string name="wc_302">chuviscos intensidade forte</string>
+    <string name="wc_310">chuviscos intensidade fracos</string>
     <string name="wc_311">chuviscos</string>
     <string name="wc_312">chuviscos fortes</string>
     <string name="wc_313">aguaceiros e chuviscos</string>

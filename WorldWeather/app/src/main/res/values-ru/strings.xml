@@ -128,7 +128,7 @@
     <string name="language_default">Язык</string>
     <string name="language_chinese_hong_kong">Китайский (Гонконг)</string>
     <string name="language_russian">Русский</string>
-    <string name="language_dutch">Немецкий</string>
+    <string name="language_dutch">Голландский</string>
     <string name="language_esperanto">Эсперанто</string>
     <string name="language_icelandic">Исландский</string>
     <string name="language_serbian">Сербский</string>
@@ -142,4 +142,5 @@
     <string name="language_romanian">Румынский</string>
     <string name="language_berber">Берберский</string>
     <string name="language_danish">Датский</string>
+    <string name="add_city">Добавить город</string>
 </resources>

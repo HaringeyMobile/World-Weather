@@ -1,2 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="pref_temperature_scale_celsius">سانتي گريد (℃)</string>
+    <string name="pref_temperature_scale_fahrenheit">فارنېهايت(℉)</string>
+    <string name="pref_temperature_scale_summary">تودوخې تله خوښول</string>
+    <string name="pref_temperature_scale_title">تودوخې تله</string>
+    <string name="pref_wind_speed_unit_mps">مېتر پر ثانيه (م‌پ‌ث)</string>
+    <string name="pref_wind_speed_unit_kph">کيلومتر پر گړۍ (ک‌پ‌گ)</string>
+    <string name="pref_wind_speed_unit_mph">ميل پر گړۍ (م‌پ‌گ)</string>
+    <string name="pref_wind_speed_unit_bs">بېوفورت تله (هوا ځواک)</string>
+    <string name="pref_wind_speed_unit_summary">د هوا د اندازه کولو يوونونه غوره کول</string>
+    <string name="pref_wind_speed_unit_title">باد گړنديتوب اندازه کولو يوونونه</string>
+    <string name="pref_wind_direction_display_summary">د هوا مالوماتو کې د باد تگلوری رانغاړل غوره کړئ</string>
+    <string name="pref_wind_direction_display_title">باد تگلوري ښکارېدنه</string>
+    <string name="pref_data_cache_period_10">۱۰ دقيقې</string>
+    <string name="pref_data_cache_period_20">۲۰ دقيقې</string>
+    <string name="pref_data_cache_period_30">۳۰ دقيقې</string>
+    <string name="pref_data_cache_period_60">۱ گړۍ</string>
+    <string name="pref_data_cache_period_120">۲ گړۍ</string>
+    <string name="pref_data_cache_period_title">د هوا اومتوک بياکارونې دوره</string>
+    <string name="pref_app_theme_pink">گلابي</string>
+    <string name="pref_app_theme_red">سور</string>
+    <string name="pref_app_theme_purple">بانجاني</string>
+    <string name="pref_app_theme_deep_purple">تياره بانجاني</string>
+    <string name="pref_app_theme_indigo">نيلي</string>
+    <string name="pref_app_theme_blue">شين</string>
+    <string name="pref_app_theme_cyan">زنگالي</string>
+    <string name="pref_app_theme_teal">تريخ زرغون</string>
+    <string name="pref_app_theme_green">زرغون</string>
+    <string name="pref_app_theme_brown">نسواري</string>
+    <string name="pref_app_theme_blue_gray">اوبن خړ</string>
+    <string name="pref_app_theme_summary">يو کاريال شاليد غوره کړئ</string>
+    <string name="pref_app_theme_title">کاريال شاليد</string>
+    <string name="pref_forecast_display_mode_swipe">د پروت پورې وهلو کتنې</string>
+    <string name="pref_forecast_display_mode_list">لړليک په توگه</string>
+    <string name="pref_forecast_display_mode_summary">غوره کړئ چې د دې گړيزې هوا مخوينی څنگه ښودل کېږي</string>
+    <string name="pref_forecast_display_mode_title">د درې گړيزې هوا مخوينې ښودلو ونگ‌ډول</string>
+    <string name="pref_city_removal_mode_button">تڼۍ کېکاږل او تاييدي پيغام‌بکس کتل</string>
+    <string name="pref_city_removal_mode_swipe">ښي يا کيڼ لوري ته ارتاو</string>
+    <string name="pref_city_removal_mode_summary">غوره کړئ چې څنگه ښارونه په سکرين چاروالۍ کې له نوملړه لرې شوې دي</string>
+    <string name="pref_city_removal_mode_title">ښارونه ړنگول</string>
+    <string name="pref_language_summary">کاريال ژبه غوره‌کول</string>
+    <string name="pref_language_title">ژبه</string>
+    <string name="pref_personal_api_key_summary">کارولو لپاره خپله ای‌پي‌آی کونجي غوره کړئ</string>
+    <string name="pref_personal_api_key_title">ځانواله ای‌پي‌آی کونجي</string>
+    <string name="pref_data_cache_period_summary">د اغېزمنتيا لاملونو لپاره، د هوا وروستي اومتوکي په ځايي توگه زېرمل کېږي او د لنډ وخت لپاره بياکارول کېږي. دلته تاسو کوی شئ هغه وخت مالوم کړئ چې وروسته له هغې به اومتوکي د شبکې له لارې تازه شي.</string>
+</resources>
